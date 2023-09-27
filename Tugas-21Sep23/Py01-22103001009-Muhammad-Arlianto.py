@@ -2,13 +2,13 @@
 print("Hello World")
 
 #2. Aritmatically Create
-a = 10 
+a = 12 
 b = 8
 c = 2
 #variabel for arimatically
 d = (a + b)/c
 e = c**3/b
-f = b%2
+f = b%3
 print(d) #result for variable d
 print(e) #result for variable e
 print(f) #result for variable f
