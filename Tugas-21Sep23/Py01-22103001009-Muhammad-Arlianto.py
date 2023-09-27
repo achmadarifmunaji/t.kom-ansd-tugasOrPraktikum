@@ -2,9 +2,9 @@
 print("Hello World")
 
 #2. Aritmatically Create
-a = 12 
-b = 8
-c = 2
+a = int(input("number variabel a: ")) 
+b = int(input("number variabel b: "))
+c = int(input("number variabel c: "))
 #variabel for arimatically
 d = (a + b)/c
 e = c**3/b
